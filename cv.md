@@ -2,16 +2,17 @@
 # Evgeny Su
 
 # Contacts
-Tel : +995 574 158 260  
-Discord:  elfia  
-Telegram: @elelfi3  
-Email : elfia3@proton.me  
+- Tel : +995 574 158 260
+- Discord:  elfia
+- Telegram: @elelfi3
+- Email : elfia3@proton.me  
 
 # About Me
-Golang backend developer 
+- Golang backend developer 
 
 # Skills 
-Golang , Python (a lil bit)
+ - Golang
+ - Python (a lil bit)
  - data structures
  - goroutines 
  - http/https/grpc/api
@@ -35,18 +36,17 @@ func isSameTree(p *TreeNode, q *TreeNode) bool {
 ```
 # Work Experience 
 
-2018 - 2021 Development of trading bots for Interactive brokers || Binance markets  
-2014 - 2018 Product Manager Internet Solutions   
-- Development and Promotion of Highload push notifications advertising network  
+- 2018 - 2021 Development of trading bots for Interactive brokers || Binance markets  
+- 2014 - 2018 Product Manager Internet Solutions  (Development and Promotion of Highload push notifications advertising network)
 
-2005 - 2014 Trading Commodities  
+- 2005 - 2014 Trading Commodities  
 
 # Education 
-SPBITMO Information Technologies and Progrgamming 2000-2004
+- SPBITMO Information Technologies and Progrgamming 2000-2004
 
 
 # Languages 
-Russian (Native)  
-English (B2)
+- Russian (Native)  
+- English (B2)
 
 
