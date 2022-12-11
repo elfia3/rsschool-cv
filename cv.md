@@ -17,9 +17,11 @@ Golang , Python (a lil bit)
  - http/https/grpc/api
  - postgresql 
  - reddis
+ - honeycomb/grafana/prometheus
 
 # Go Code Samples 
-```
+
+``` golang
 func isSameTree(p *TreeNode, q *TreeNode) bool {
 	if p == nil && q == nil {
 		return true
@@ -33,7 +35,9 @@ func isSameTree(p *TreeNode, q *TreeNode) bool {
 ```
 # Work Experience 
 
-2014 - 2018 Product Manager 
+2018 - 2021 **Development of trading bots for Interactive brokers || Binance markets**
+2014 - 2018 **Product Manager Internet Solutions**
+**- Development and Promotion of Highload push notifications advertising network**
 2005 - 2014 Trading Commodities 
 
 # Education 
